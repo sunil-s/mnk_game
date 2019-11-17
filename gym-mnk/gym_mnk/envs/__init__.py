@@ -1,0 +1,1 @@
+from gym_mnk.envs.mnk_env import mnkEnv
